@@ -1,4 +1,4 @@
-<p align='center'>Hi There, I'm Ken</p>
+<p align='center'>Allo, I'm Ken👋</p>
 <p align="center">
 <img src="https://c.top4top.io/p_2275xjq7x1.jpg" width="225" height="225"/>
 </p>
