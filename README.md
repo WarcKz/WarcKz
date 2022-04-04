@@ -5,8 +5,8 @@
 <p align="center">
 <a href="https://github.com/WarcKz"><img title="Author" src="https://img.shields.io/badge/Author-WarcKz-red.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://wa.me/6281515982740"><img height="30" src="https://www.freeiconspng.com/uploads/whatsapp-black-logo-icon--24.png"></a>
-<a href="https://www.instagram.com/warclol/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
+<a href="https://instagram.com/warclol"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/6281515982740"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </P>
   
 ### ⚙ &nbsp;GitHub Analytics
