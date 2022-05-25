@@ -1,6 +1,6 @@
 <p align='center'>Allo, I'm Ken👋</p>
 <p align="center">
-<img src="https://telegra.ph/WarcKz-05-25" width="225" height="225"/>
+<img src="https://telegra.ph/file/94dd1dfb87f1913040ba7.jpg" width="225" height="225"/>
 </p>
 <p align="center">
 <a href="https://github.com/WarcKz"><img title="Author" src="https://img.shields.io/badge/Author-WarcKz-red.svg?style=for-the-badge&logo=github"></a>
